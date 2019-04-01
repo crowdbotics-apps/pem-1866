@@ -1,0 +1,3 @@
+rootProject.name = 'pem_1866'
+
+include ':app'
